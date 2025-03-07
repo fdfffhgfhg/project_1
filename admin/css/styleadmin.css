@@ -1,0 +1,23 @@
+.wrapper{
+    border : 1px solid black;
+    height : auto;
+    width : 90%; 
+    margin : 0 auto;
+}
+.title_adm{
+    text-align: center;
+    font-size: 40px;
+    color :rgb(46, 93, 220);
+}
+ul.admincp_menulist{
+   padding : 0;
+   margin : 0;
+   list-style: none;
+}
+ul.admincp_menulist li{
+    float : left;
+    margin : 5px;
+}
+.clear{
+    clear : both;
+}
